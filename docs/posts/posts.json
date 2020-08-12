@@ -1,0 +1,18 @@
+[
+  {
+    "path": "posts/2020-08-12-week1/",
+    "title": "Week1",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Kelly Mcconville",
+        "url": {}
+      }
+    ],
+    "date": "2020-08-12",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-08-12T11:09:02-07:00",
+    "input_file": {}
+  }
+]
