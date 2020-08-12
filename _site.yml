@@ -1,0 +1,12 @@
+name: "testDistill"
+title: "Test Distill Website"
+description: |
+  Test Distill Website
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
